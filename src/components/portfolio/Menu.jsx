@@ -39,7 +39,7 @@ const Menu = [
 		repositoryUrl: "https://github.com/himanshupahuja89/Todo-Dapp/"
 	},
 	{
-		id: 4,
+		id: 5,
 		image: Work5,
 		title: "Decentralized AI NFT Generator",
 		category: ["Blockchain", "Full Stack", "React"],
@@ -47,7 +47,7 @@ const Menu = [
 		repositoryUrl: "https://github.com/himanshupahuja89/AI-NFT-Generator/"
 	},
 	{
-		id: 4,
+		id: 6,
 		image: Work6,
 		title: "Musicwiki",
 		category: ["Frontend", "React"],
@@ -58,7 +58,7 @@ const Menu = [
 		id: 7,
 		image: Work7,
 		title: "Track App",
-		category: ["React-Native", "Full Stack"],
+		category: ["React-Native", "Full Stack", "React"],
 		url: "https://github.com/Himanshu-180875/Track-Ui",
 		repositoryUrl: "https://github.com/Himanshu-180875/track-server"
 	}
