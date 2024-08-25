@@ -58,7 +58,7 @@ const Menu = [
 		id: 7,
 		image: Work7,
 		title: "Track App",
-		category: ["React-Native", "Full-Stack"],
+		category: ["React-Native", "Full Stack"],
 		url: "https://github.com/Himanshu-180875/Track-Ui",
 		repositoryUrl: "https://github.com/Himanshu-180875/track-server"
 	}
